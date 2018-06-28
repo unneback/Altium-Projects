@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\micha\Projects\Altium-Projects\trunk\PSU\PCB\FAN7688\FAN7688.PcbDoc
 Date     : 2018-06-28
-Time     : 17:38:55
+Time     : 21:29:44
 
 Processing Rule : Clearance Constraint (Gap=0.5mm) (InNet('B+')),(All)
 Rule Violations :0
@@ -60,4 +60,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
