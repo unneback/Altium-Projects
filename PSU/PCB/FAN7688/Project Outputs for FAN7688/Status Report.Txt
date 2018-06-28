@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [FAN7688.PrjPCB]
+   Generated File[FAN7688.TXT]
+   Generated File[FAN7688.LDP]
+   Generated File[FAN7688.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:41:13 On 2018-06-28
