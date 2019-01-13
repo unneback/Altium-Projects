@@ -1,0 +1,33 @@
+* C:\Users\micha\Projects\Altium-Projects\trunk\Vinyl\Discrete\LTSpice\RIAA.asc
+Q1 N003 N004 N005 0 BC547C
+Q2 N007 N003 N002 0 BC557C
+R1 N001 N004 680K
+R2 N004 0 470K
+R3 N001 N003 47K
+R4 N005 0 33K
+R5 N005 N009 100
+R6 N006 N005 8K2
+R7 N007 N006 150K
+R8 N001 N002 4K7
+R9 N007 0 4K7
+R10 N008 0 3K3
+R11 OUT 0 100K
+Q3 N001 N007 N008 0 BC547C
+C1 N004 IN 1µF
+C2 0 N009 220µF
+C3 N005 N006 10nF
+C4 N006 N007 33nF
+C5 N001 N002 47µF
+C6 OUT N008 10µF
+V1 IN 0 AC 1
+V2 N001 0 9.7V
+.model NPN NPN
+.model PNP PNP
+.lib C:\Users\micha\OneDrive\Documents\LTspiceXVII\lib\cmp\standard.bjt
+.ac dec 1000 1 100K
+.four 1KHz 10 V(out)
+.four 1KHz 10 V(in)
+.OPTIONS plotwinsize=0
+.OPTIONS numdgt=7
+.backanno
+.end

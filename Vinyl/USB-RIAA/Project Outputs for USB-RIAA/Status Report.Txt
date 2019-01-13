@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [USB-RIAA.PrjPcb]
+   Generated File[USB-RIAA-RoundHoles.TXT]
+   Generated File[USB-RIAA-SlotHoles.TXT]
+   Generated File[USB-RIAA.LDP]
+   Generated File[USB-RIAA.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 5:07:05 PM On 1/13/2019
