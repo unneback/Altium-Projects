@@ -2,6 +2,8 @@ Output: Gerber Files
 Type  : Gerber
 From  : Variant [[No Variations]] of Project [Front.PrjPcb]
    Generated File[Front.GTO]
+   Generated File[Front.GTS]
+   Generated File[Front.GTL]
    Generated File[Front.GBL]
    Generated File[Front.GBS]
    Generated File[Front.RUL]
@@ -9,7 +11,7 @@ From  : Variant [[No Variations]] of Project [Front.PrjPcb]
    Generated File[Front.REP]
 
 
-Files Generated   : 6
+Files Generated   : 8
 Documents Printed : 0
 
-Finished Output Generation At 3:17:04 PM On 1/13/2019
+Finished Output Generation At 6:47:51 PM On 1/15/2019

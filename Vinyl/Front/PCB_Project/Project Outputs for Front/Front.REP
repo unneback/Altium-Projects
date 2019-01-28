@@ -16,6 +16,42 @@ Generating : Bottom Solder
 
 Used DCodes :
     D10
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Front.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Front.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
     D14
     D15
 *************************************************************
@@ -33,8 +69,8 @@ Generating : Bottom Layer
 
 Used DCodes :
     D10
-    D12
-    D13
+    D14
+    D15
 *************************************************************
 
 *************************************************************
