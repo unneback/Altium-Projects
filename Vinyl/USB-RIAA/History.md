@@ -2,7 +2,6 @@
 
 ## Release 2
 
-U4.4 connected to GND
-R32 changed to 1M
-
+1. U4.4 connected to GND
+2. R32 changed to 1M
 
