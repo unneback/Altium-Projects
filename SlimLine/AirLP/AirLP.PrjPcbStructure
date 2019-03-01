@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=AirLP.SchDoc
+Record=SheetSymbol|SourceDocument=AirLP.SchDoc|Designator=U_OM-02P|SchDesignator=U_OM-02P|FileName=OM-02P.SchDoc|SymbolType=Normal|RawFileName=OM-02P.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=AirLP.SchDoc|Designator=U_RIAA|SchDesignator=U_RIAA|FileName=RIAA.SchDoc|SymbolType=Normal|RawFileName=RIAA.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=AirLP.SchDoc|Designator=U_USBDAC|SchDesignator=U_USBDAC|FileName=USBDAC.SchDoc|SymbolType=Normal|RawFileName=USBDAC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
